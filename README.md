@@ -38,8 +38,6 @@ This is a full-featured *Flight Booking System* web application designed for boo
    - Start Apache and MySQL.
    - Import the .sql file into *phpMyAdmin* to set up the database.
 
-3. *View*:
-   - Go to http://localhost/your-folder-name/ in your browser.
 
 ## 🗃 Features
 
